@@ -7,20 +7,19 @@ app.set("view engine", "ejs")
 
 app.listen(3000)
 
-app.get('/', function(req, res) {
-    res.render('home')
-  })
+app.use(express.static(__dirname + '/public'));
 
 app.get('/about', function(req, res) {
     res.render('about')
   })
 
+  app.get('/', function(req, res) {
+    res.render('home')
+  })
 
-
-
-
-
-
+  app.get('/menu', function(req, res) {
+    res.render('menu')
+  })
 
 
 
