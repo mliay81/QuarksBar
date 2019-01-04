@@ -1,5 +1,5 @@
-$( document ).ready(function() {
-    console.log( "ready!" )
+// $( document ).ready(function() {
+//     console.log( "ready!" )
 
 var express = require("express")
 var app = express()
@@ -28,4 +28,4 @@ app.get('/about', function(req, res) {
 
 
 
-})
+// })
