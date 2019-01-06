@@ -17,8 +17,8 @@ app.get('/about', function(req, res) {
     res.render('home')
   })
 
-  app.get('/menu', function(req, res) {
-    res.render('quarksbar/menu.html')
+  app.get('/QuarksBar/menu', function(req, res) {
+    res.render('menu')
   })
 
 
