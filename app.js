@@ -10,7 +10,7 @@ app.listen(3000)
 app.use(express.static(__dirname + '/public'));
 
 app.get('/about', function(req, res) {
-    res.render('about.html')
+    res.render('/views/about')
   })
 
   app.get('/', function(req, res) {
@@ -18,7 +18,7 @@ app.get('/about', function(req, res) {
   })
 
   app.get('/menu', function(req, res) {
-    res.render('menu.html')
+    res.render('/views/menu')
   })
 
 
