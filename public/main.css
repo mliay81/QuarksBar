@@ -45,4 +45,8 @@ img {
         width: auto;
         height: 500px;
     }
+
+    body {
+        background-color: blue; 
+    }
   }
