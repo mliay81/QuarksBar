@@ -9,7 +9,7 @@ h1 {
 }
 
 .jumbotron {
-    background-image: url("/public/images/QuarksBar2.jpg");
+    background-image: url("./public/images/QuarksBar2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
