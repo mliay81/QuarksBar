@@ -11,15 +11,10 @@ h1 {
 .jumbotron {
     background-image: url("images/QuarksBar2.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: auto;
-}
-
-/* .img-fluid {
+    background-size: 100% 100%;
     max-width: 100%;
     height: auto;
-} */
+}
 
 body {
     background-color: black;

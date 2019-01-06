@@ -10,7 +10,7 @@ app.listen(3000)
 app.use(express.static(__dirname + '/public'));
 
 app.get('/about', function(req, res) {
-    res.render('/QuarksBar/views/about')
+    res.render('/QuarksBar/about')
   })
 
   app.get('/QuarksBar', function(req, res) {
