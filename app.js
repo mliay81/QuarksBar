@@ -13,7 +13,7 @@ app.get('/about', function(req, res) {
     res.render('/QuarksBar/views/about')
   })
 
-  app.get('/', function(req, res) {
+  app.get('/QuarksBar', function(req, res) {
     res.render('home')
   })
 
