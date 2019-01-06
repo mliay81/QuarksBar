@@ -8,11 +8,11 @@ h1 {
     color: white;
 }
 
-.jumbotron {
+.img-fluid {
     background-image: url("images/QuarksBar2.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    max-width: auto;
+    max-width: 100%;
     height: auto;
     /* max-width:1400px; */
 }
