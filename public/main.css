@@ -38,8 +38,9 @@ img {
 }
 
 .responsive {
-    max-width: 100%;
-    height: auto;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
   }
 
 @media screen and (max-width: 600px) {
