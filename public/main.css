@@ -38,8 +38,7 @@ img {
 }
 
 .responsive {
-  max-width: 100%;
-  max-width: 100%;
+  width: 80%;
   height: auto;
   }
 
