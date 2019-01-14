@@ -32,6 +32,13 @@ img {
     width: 75%;
 }
 
+#about {
+    background-color: white;
+    padding-top: 10px;
+    border-radius: 10px;
+    width: 75%;
+}
+
 #drinkInfo {
     margin-bottom: 0%;
     font-weight: bold;
