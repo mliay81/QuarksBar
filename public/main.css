@@ -42,7 +42,7 @@ img {
   height: auto;
 }
 
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) {
     .jumbotron {
         background-image: url("images/QuarksBar2.jpg");
         background-repeat: no-repeat;
@@ -54,4 +54,4 @@ img {
     body {
         background-color: blue; 
     }
-  }
+  } */
