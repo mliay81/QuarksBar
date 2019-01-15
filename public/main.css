@@ -51,8 +51,7 @@ img {
     border-radius: 10px;
     width: 50%;
     height: 75%;
-    /* text-align: center; */
-    padding: 40%;
+    padding: 40px;
 }
 
 #drinkInfo {
