@@ -3,6 +3,11 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    color: white;
+    text-align: center;
+}
+
 #route {
     display: inline-block;
     color: white;
@@ -46,6 +51,8 @@ img {
     padding-top: 10px;
     border-radius: 10px;
     width: 75%;
+    text-align: center;
+    padding: 10px;
 }
 
 #drinkInfo {
